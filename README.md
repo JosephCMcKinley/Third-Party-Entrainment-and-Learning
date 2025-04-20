@@ -32,3 +32,5 @@ KEY FINDINGS OF THIS RESEARCH PROJECT:
 ACKNOWLEDGEMENTS: 
 
 We gratefully acknowledge FAU's Stiles Nichelson Brain Institute and the Palm Health Foundation for funding this research.
+
+- Joseph C McKinley
