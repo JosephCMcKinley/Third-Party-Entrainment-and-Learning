@@ -5,7 +5,8 @@ NOTE: THIS REPOSITORY IS IN THE PROCESS OF BEING UPDATED, AND WILL BE COMPLETED 
 
 This repository is a comprehensive record of the dynamical systems modelling research conducted during my Physics PhD at FAU as a Graduate Research Assistant from 2021 to 2024.
 
-This research was conducted as part of research project in computational brain health funded by FAU's Stiles Nichelson Brain Institute through a Palm Health Fellowship investigating neurostimulation, as well an NIH/NIA-funded project investigating the preservation and loss of social engagement in groups of older adults with Alzheimer's disease and related dementias (ADRD) interacting younger unimpaired adult facilitator and control subjects
+This research was conducted as part of a research project in computational brain health investigating neurostimulation which was funded by FAU's Stiles Nichelson Brain Institute through a Palm Health Fellowship, as well as an NIH/NIA-funded project investigating the preservation and loss of social engagement in groups of older adults with Alzheimer's disease and related dementias (ADRD) interacting younger unimpaired adult facilitator and control subjects
+
 
 THE COMPUTATIONAL MODELS DEVELOPED BY MY RESEARCH TEAM INCLUDE THE FOLLOWING:
 
